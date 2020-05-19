@@ -1,0 +1,9 @@
+D:\Pendidikan\Pemrograman Visual\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Pendidikan\Pemrograman Visual\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Pendidikan\Pemrograman Visual\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Pendidikan\Pemrograman Visual\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Pendidikan\Pemrograman Visual\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Pendidikan\Pemrograman Visual\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Pendidikan\Pemrograman Visual\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Pendidikan\Pemrograman Visual\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Pendidikan\Pemrograman Visual\Calculator\Calculator\Calculator\obj\Debug\Calculator.FormUtama.resources
